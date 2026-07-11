@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">COACHFOLIO</title>
+  <rect width="128" height="128" rx="27" fill="#171716" />
+  <g transform="translate(24 16) scale(.8)" fill="none" stroke="#D5C097" stroke-linejoin="miter">
+    <path d="M82 10H42C22 10 10 24 10 44v34c0 20 12 34 32 34h24" stroke-width="8" />
+    <path d="M79 21H44C30 21 21 30 21 44v34c0 14 9 23 23 23h20" stroke-width="3" />
+  </g>
+  <path transform="translate(24 16) scale(.8)" fill="#D5C097" d="M53 40 88 30v12H65v19h23v12H65v29h18l-5 10H53Z" />
+</svg>

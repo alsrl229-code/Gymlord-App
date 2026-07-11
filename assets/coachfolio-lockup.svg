@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" role="img" aria-labelledby="title">
+  <title id="title">COACHFOLIO</title>
+  <g transform="translate(20 20)" fill="none" stroke="#B79B62" stroke-linejoin="miter">
+    <path d="M82 10H42C22 10 10 24 10 44v34c0 20 12 34 32 34h24" stroke-width="8" />
+    <path d="M79 21H44C30 21 21 30 21 44v34c0 14 9 23 23 23h20" stroke-width="3" />
+  </g>
+  <path transform="translate(20 20)" fill="#B79B62" d="M53 40 88 30v12H65v19h23v12H65v29h18l-5 10H53Z" />
+  <line x1="145" y1="34" x2="145" y2="126" stroke="#766B5A" stroke-width="1" />
+  <text x="176" y="101" fill="#B79B62" font-family="Georgia, 'Times New Roman', serif" font-size="48" letter-spacing="8">COACHFOLIO</text>
+</svg>

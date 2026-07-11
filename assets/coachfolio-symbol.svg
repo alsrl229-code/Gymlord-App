@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" role="img" aria-labelledby="title">
+  <title id="title">COACHFOLIO symbol</title>
+  <g fill="none" stroke="#B79B62" stroke-linejoin="miter">
+    <path d="M82 10H42C22 10 10 24 10 44v34c0 20 12 34 32 34h24" stroke-width="8" />
+    <path d="M79 21H44C30 21 21 30 21 44v34c0 14 9 23 23 23h20" stroke-width="3" />
+  </g>
+  <path fill="#B79B62" d="M53 40 88 30v12H65v19h23v12H65v29h18l-5 10H53Z" />
+</svg>
